@@ -1,4 +1,4 @@
-#  Core HF stack
+# Core HF stack
 transformers>=4.43
 datasets>=2.18
 accelerate>=0.30

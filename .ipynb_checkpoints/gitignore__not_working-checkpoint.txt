@@ -1,0 +1,8 @@
+
+# Large artifacts
+*.pt
+*.bin
+*.mp4
+
+# Arrow files
+*.arrow

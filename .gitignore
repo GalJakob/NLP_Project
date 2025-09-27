@@ -1,8 +1,60 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
 
-# Large artifacts
-*.pt
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Large model files
 *.bin
-*.mp4
+*.h5
+*.hdf5
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.tflite
 
-# Arrow files
+# Hugging Face / Tokenizers
+*.jsonl
 *.arrow
+*.lock
+*.tar.gz
+*.msgpack
+
+# Dataset / media files
+*.zip
+*.gz
+*.tar
+*.7z
+*.rar
+*.csv
+*.tsv
+*.parquet
+*.arrow
+*.npy
+*.npz
+*.pkl
+*.joblib
+
+# Video / audio
+*.mp4
+*.avi
+*.mov
+*.wav
+*.mp3
+*.flac
+
+# Logs / outputs
+logs/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db

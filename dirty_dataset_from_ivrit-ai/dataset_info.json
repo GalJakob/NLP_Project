@@ -1,0 +1,16 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "clean_sentence": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "dirty_sentence": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

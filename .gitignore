@@ -58,3 +58,10 @@ logs/
 # System files
 .DS_Store
 Thumbs.db
+
+
+.ipynb_checkpoints/
+.env
+*.env
+hf_token.txt
+.huggingface/token
